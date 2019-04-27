@@ -1,0 +1,7 @@
+[package]
+name = "SimpleKV"
+version = "0.1.0"
+authors = ["ShuangYa"]
+edition = "2018"
+
+[dependencies]
